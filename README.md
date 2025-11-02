@@ -8,9 +8,7 @@ No backend or cloud — your passwords stay safe **locally on your device**.
 
 ## 🚀 Demo
 
-👉 [**Live Demo**](https://your-demo-link-here.com)
-
-*(Replace the link above with your deployed site URL — e.g., from Netlify or Vercel.)*
+👉 [**Live Demo**](https://pass-op-rosy.vercel.app/)
 
 ---
 
@@ -18,7 +16,6 @@ No backend or cloud — your passwords stay safe **locally on your device**.
 
 ![PassOP Screenshot](./preview.png)
 
-*(Save a screenshot of your app as `screenshot.png` in the main folder for it to appear here.)*
 
 ---
 
